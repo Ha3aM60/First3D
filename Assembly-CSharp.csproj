@@ -57,10 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Apple.cs" />
+    <Compile Include="Assets\Scripts\HighScore.cs" />
     <Compile Include="Assets\Scripts\AppleTree.cs" />
     <Compile Include="Assets\Scripts\ApplePicker.cs" />
     <Compile Include="Assets\Scripts\Basket.cs" />
-    <Compile Include="Assets\Scripts\HighScore.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
